@@ -1,0 +1,14 @@
+#profilePhoto{
+    border-radius: 20%;
+}
+
+.carousel-horizontal {
+    max-width: 700px; /* Ancho máximo deseado */
+    margin: 0 auto;
+}
+
+#grace{
+    border-radius: 100%;
+    width: 45%;
+    height: 45%;
+}
