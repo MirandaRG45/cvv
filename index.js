@@ -8,7 +8,7 @@ $("#PDF").click(function() {
     // Crea un elemento "a" invisible para descargar el archivo
     var a = document.createElement('a');
     a.href = pdfUrl;
-    a.download = 'archivo.pdf'; // Nombre del archivo que se descargará
+    a.download = 'cvv_Miranda_Rojas.pdf'; // Nombre del archivo que se descargará
     a.style.display = 'none';
 
     // Agrega el elemento "a" al DOM y dispara un clic para descargar el archivo
